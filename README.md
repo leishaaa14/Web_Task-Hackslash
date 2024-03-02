@@ -1,6 +1,8 @@
 ![Screenshot 2024-03-02 003209](https://github.com/leishaaa14/Web_Task2-Hackslash/assets/158585383/bc8893f6-22eb-47b7-9e19-4a5942622c06)  
 ![Screenshot 2024-03-02 003147](https://github.com/leishaaa14/Web_Task2-Hackslash/assets/158585383/9a74e724-6ed2-4b04-ae02-193b15f80308)
 <br><br>
+FOLDER FOR ALL THE PICS USED
+D:\WEB\photos
 MAKING OF THE WEBPAGE
 <br><br>
 ![Screenshot 2024-03-02 003537](https://github.com/leishaaa14/Web_Task2-Hackslash/assets/158585383/9afbe445-ba80-49c1-97c6-897a7c2be15f)
